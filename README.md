@@ -3,6 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Ohad%20Ezra&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
 <h1 align="center">Hi 👋, I'm Ohad Ezra</h1>
 
 <h3 align="center">
@@ -15,41 +18,32 @@ Building scalable applications, automation tools and cloud solutions.
 
 ## 🚀 About Me
 
-🎓 B.Sc Software Engineering
+🎓 B.Sc. Software Engineering Graduate
 
-⚙️ DevOps & Automation Enthusiast
+☁️ Passionate about DevOps, Cloud Infrastructure and Automation
 
-🌐 Full Stack Developer
+🧠 Building AI-powered applications with React & FastAPI
 
-💻 Application Support Engineer
+🐳 Enjoy working with Docker, Linux and backend systems
 
-📚 Always learning new technologies
+🚀 Currently building production-ready Full Stack projects
 
-## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,react,typescript,fastapi,docker,postgres,git,linux,vscode"/>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
+</p>
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=OhadEzra&show_icons=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=OhadEzra&show_icons=true&theme=tokyonight"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OhadEzra&layout=compact)
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhadEzra&layout=compact&theme=tokyonight"/>
+</p>
 
 
 ## 🔥 Featured Project
