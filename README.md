@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:2563EB,100:38BDF8&text=OHAD%20EZRA&fontSize=55&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,50:1D4ED8,100:FFFFFF&text=OHAD%20EZRA&fontColor=ffffff&fontSize=64&desc=Software%20Engineer%20%7C%20DevOps%20%26%20Cloud%20Enthusiast%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=72&animation=fadeIn" />
 </p>
+
+<h2 align="center">Building AI-powered products, backend systems and cloud-ready applications</h2>
 
 <h1 align="center">🚀 Software Engineer | DevOps Enthusiast | Full Stack Developer</h1>
 
@@ -8,9 +10,6 @@
 Building scalable applications, AI-powered solutions and cloud-native systems.
 </p>
 
-<p align="center">
-  <img width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</p>
 
 ## 👨‍💻 About Me
 
@@ -24,86 +23,71 @@ Building scalable applications, AI-powered solutions and cloud-native systems.
 
 🚀 Always exploring new technologies and solving real-world problems
 
-## ⚡ Tech Stack
+## 🛠️ Tech Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,typescript,docker,postgres,git,linux,vscode" />
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,bash" />
 </p>
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OhadEzra&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhadEzra&layout=compact&theme=tokyonight"/>
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
 </p>
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OhadEzra&theme=tokyonight&row=1&column=6"/>
+### Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
 </p>
 
-## 🔥 Featured Project
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
+</p>
 
-# AI Crypto Advisor
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,githubactions,nginx,aws,azure,postman,vscode" />
+</p>
 
-AI-powered cryptocurrency recommendation platform.
 
-### Features
 
-✅ Personalized onboarding
+## 🚀 Featured Project
 
-✅ AI-generated investment insights
+<div align="center">
 
-✅ Crypto watchlists
+### AI Crypto Advisor
 
-✅ Community voting system
+AI-powered cryptocurrency recommendation platform built with a modern full-stack architecture.
 
-✅ Portfolio tracking
+</div>
 
-### Tech Stack
+#### What it includes
 
-React • TypeScript • FastAPI • Python • SQLAlchemy
+- Personalized user onboarding
+- AI-generated crypto insights
+- Watchlist management
+- Community voting system
+- Portfolio-oriented experience
+- Modern responsive UI
 
-## 🎯 Currently Working On
+#### Tech Stack
 
-🔹 Full Stack Development
-
-🔹 DevOps & Automation
-
-🔹 Cloud Technologies
-
-🔹 AI-powered Applications
-
-🔹 System Design & Architecture
-
-## ⚡ Fun Facts
-
-🏀 Basketball enthusiast
-
-⚽ FC Barcelona fan
-
-🐍 Python lover
-
-🚀 Building projects that solve real-world problems
+`React` `TypeScript` `FastAPI` `Python` `SQLAlchemy` `JWT` `REST API`
 
 ## 🌍 Connect With Me
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/ohad-ezra/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="ohadezra236@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OhadEzra&color=blue"/>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Ohad%20Ezra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:ohadezra236@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ohadezra236%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/OhadEzra">
+    <img src="https://img.shields.io/badge/GitHub-OhadEzra-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
-
-
 
