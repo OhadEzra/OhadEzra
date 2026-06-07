@@ -4,41 +4,9 @@
 
 <h1 align="center">🚀 Software Engineer | DevOps Enthusiast | Full Stack Developer</h1>
 
-<p align="center">
-Building scalable applications, backend systems and cloud-ready solutions.
-</p>
-
 <br>
 
----
-
-<br>
-
-<h2 align="center">💼 Experience Snapshot</h2>
-
-<p align="center">
-
-🎓 B.Sc. Software Engineering Graduate
-
-💻 Application Support Engineer
-
-🚢 Mission-Critical Operational Systems
-
-⚙️ Real-Time Monitoring & Troubleshooting
-
-🌐 Full Stack Development
-
-☁️ DevOps & Cloud Enthusiast
-
-</p>
-
-<br>
-
----
-
-<br>
-
-<h2 align="center">👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
 🎓 B.Sc. Software Engineering Graduate
 
@@ -50,91 +18,43 @@ Building scalable applications, backend systems and cloud-ready solutions.
 
 🚀 Always exploring new technologies and solving real-world problems
 
-<br>
+<br><br>
 
----
-
-<br>
-
-<h2 align="center">⚡ Tech Arsenal</h2>
+## 🛠️ Tech Arsenal
 
 ### Languages
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,bash" />
 </p>
 
 ### Frontend
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
 </p>
 
 ### Backend & APIs
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST%20API-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-red?style=for-the-badge" />
 </p>
 
 ### Databases
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
 </p>
 
-### DevOps & Cloud
+### DevOps & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,githubactions,nginx,aws,azure" />
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,githubactions,nginx,aws,azure,postman,vscode" />
 </p>
 
-### Tools
+<br><br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,vscode,visualstudio,figma" />
-</p>
-
-<br>
-
----
-
-<br>
-
-<h2 align="center">🏗️ Engineering Areas</h2>
-
-<p align="center">
-
-☁️ Cloud & Infrastructure
-
-⚙️ DevOps & Automation
-
-🧠 AI Integrations
-
-🌐 Full Stack Development
-
-🔗 REST APIs & Backend Systems
-
-🗄️ Database Design
-
-📊 Monitoring & Observability
-
-🚀 CI/CD Pipelines
-
-</p>
-
-<br>
-
----
-
-<br>
-
-<h2 align="center">🎯 Current Focus</h2>
+## 🎯 Currently Working On
 
 🔹 Full Stack Development
 
@@ -142,56 +62,30 @@ Building scalable applications, backend systems and cloud-ready solutions.
 
 🔹 Cloud Technologies
 
-🔹 AI-Powered Applications
+🔹 AI-powered Applications
 
 🔹 System Design & Architecture
 
-🔹 Production-Ready Software
+<br><br>
 
-<br>
-
----
-
-<br>
-
-<h2 align="center">📚 Currently Learning</h2>
-
-- Kubernetes
-- Cloud Architecture
-- System Design
-- Scalable Backend Development
-- AI Agent Architectures
-
-<br>
-
----
-
-<br>
-
-<h2 align="center">🌍 Connect With Me</h2>
+## 🌍 Connect With Me
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/ohad-ezra/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ohad%20Ezra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/ohad-ezra/">
-<img src="https://img.shields.io/badge/LinkedIn-Ohad%20Ezra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="mailto:ohadezra236@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ohadezra236%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="mailto:ohadezra236@gmail.com">
-<img src="https://img.shields.io/badge/Email-ohadezra236%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/OhadEzra">
-<img src="https://img.shields.io/badge/GitHub-OhadEzra-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/OhadEzra">
+    <img src="https://img.shields.io/badge/GitHub-OhadEzra-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
-<br>
-
----
-
-<br>
+<br><br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OhadEzra&color=blue&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=OhadEzra&color=blue"/>
 </p>
