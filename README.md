@@ -1,14 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,50:1D4ED8,100:FFFFFF&text=OHAD%20EZRA&fontColor=ffffff&fontSize=64&desc=Software%20Engineer%20%7C%20DevOps%20%26%20Cloud%20Enthusiast%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=72&animation=fadeIn" />
-</p>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2bf1878c-8f00-43eb-8fe0-ae5f2204f43d" />
 
-<h2 align="center">Building AI-powered products, backend systems and cloud-ready applications</h2>
 
 <h1 align="center">🚀 Software Engineer | DevOps Enthusiast | Full Stack Developer</h1>
 
-<p align="center">
-Building scalable applications, AI-powered solutions and cloud-native systems.
-</p>
 
 
 ## 👨‍💻 About Me
@@ -50,44 +44,30 @@ Building scalable applications, AI-powered solutions and cloud-native systems.
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,githubactions,nginx,aws,azure,postman,vscode" />
 </p>
 
+## 📈 GitHub Stats
 
-
-## 🚀 Featured Project
-
-<div align="center">
-
-### AI Crypto Advisor
-
-AI-powered cryptocurrency recommendation platform built with a modern full-stack architecture.
-
-</div>
-
-#### What it includes
-
-- Personalized user onboarding
-- AI-generated crypto insights
-- Watchlist management
-- Community voting system
-- Portfolio-oriented experience
-- Modern responsive UI
-
-#### Tech Stack
-
-`React` `TypeScript` `FastAPI` `Python` `SQLAlchemy` `JWT` `REST API`
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OhadEzra&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhadEzra&layout=compact&theme=tokyonight"/>
+</p>
 
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/ohad-ezra/">
     <img src="https://img.shields.io/badge/LinkedIn-Ohad%20Ezra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:ohadezra236@gmail.com">
+  <a href="ohadezra236@gmail.com">
     <img src="https://img.shields.io/badge/Email-ohadezra236%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://github.com/OhadEzra">
     <img src="https://img.shields.io/badge/GitHub-OhadEzra-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OhadEzra&color=blue"/>
 </p>
 
