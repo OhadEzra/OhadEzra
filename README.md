@@ -19,6 +19,8 @@
 
 ## 🛠️ Tech Arsenal
 
+
+
 ### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,bash" />
@@ -44,12 +46,18 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,githubactions,nginx,aws,azure,postman,vscode" />
 </p>
 
-## 📈 GitHub Stats
+## 🎯 Currently Working On
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OhadEzra&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhadEzra&layout=compact&theme=tokyonight"/>
-</p>
+🔹 Full Stack Development
+
+🔹 DevOps & Automation
+
+🔹 Cloud Technologies
+
+🔹 AI-powered Applications
+
+🔹 System Design & Architecture
+
 
 ## 🌍 Connect With Me
 
