@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="850" alt="Ohad Ezra Banner" src="https://github.com/user-attachments/assets/2bf1878c-8f00-43eb-8fe0-ae5f2204f43d" />
+  <img width="550" alt="Ohad Ezra Banner" src="https://github.com/user-attachments/assets/2bf1878c-8f00-43eb-8fe0-ae5f2204f43d" />
 </p>
 
 
