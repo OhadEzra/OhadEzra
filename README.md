@@ -2,6 +2,10 @@
   <img width="850" alt="Ohad Ezra Banner" src="https://github.com/user-attachments/assets/2bf1878c-8f00-43eb-8fe0-ae5f2204f43d" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,react,ts,fastapi,docker,postgres,mysql,mongodb,linux,git,github,aws,azure,vscode,postman" />
+</p>
+
 <h1 align="center">🚀 Software Engineer | DevOps Enthusiast | Full Stack Developer</h1>
 
 <br>
